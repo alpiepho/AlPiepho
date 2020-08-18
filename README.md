@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, stay tuned for more details 👋
 
 <!--
 **alpiepho/AlPiepho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
