@@ -1,6 +1,6 @@
-### Hi there, stay tuned for more details 👋
 
 <!--
+### Hi there, stay tuned for more details 👋
 **alpiepho/AlPiepho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,10 +16,16 @@ Here are some ideas to get you started:
 
 -->
 
-![#f7e4c0](https://placehold.it/15/f7e4c0/000000?text=+)
+### All Public Repositories Alphabetically
+
+(66 Total, 33 Forks)
 
 [any-counter](https://github.com/alpiepho/any-counter/blob/master/README.md) <sup><sub><i>(javascript)</i></sub></sup> <br>
 Simple PWA that runs a counter given custom number and range of digits. Includes Web Assembly.<br>
+![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) Javascript
+
+[anycounter-experiments](https://github.com/alpiepho/anycounter-experiments/blob/master/README.md) <sup><sub><i>(javascript)</i></sub></sup> <br>
+Performance experiments with C/C++/JS/Go/Rust/WASM using simple 'any' counter algorithm<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) Javascript
 
 ### 2) anycounter-experiments<span style="color:grey;font-weight:200">[javascript]</span> 
