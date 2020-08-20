@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 1) any-counter<sub>[javascript]</sub> 
+### 1) any-counter<sup><i>[javascript]</i></sup> 
 [any-counter](https://github.com/alpiepho/any-counter/blob/master/README.md)
 : Simple PWA that runs a counter given custom number and range of digits. Includes Web Assembly.
 
