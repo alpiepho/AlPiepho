@@ -1,6 +1,8 @@
 
 ### All Public Repositories Alphabetically
 
+<sup><sub>(using special repo to show all at once.  pinned and chart below)</sub></sup>
+
 (72 Total, 66 Public, 6 Forks)<br>
 <sup><sub>(updated Thu Aug 20 2020 14:31:23 GMT-0600 (Mountain Daylight Time))</sub></sup>
 
