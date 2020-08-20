@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 1) any-counter<span style="color:red">[javascript]</span> 
+[any-counter](https://github.com/alpiepho/any-counter/blob/master/README.md)
+: Simple PWA that runs a counter given custom number and range of digits. Includes Web Assembly.
+
+### 2) anycounter-experiments<span style="color:grey;font-weight:200">[javascript]</span> 
+[anycounter-experiments](https://github.com/alpiepho/anycounter-experiments/blob/master/README.md)
+: Performance experiments with C/C++/JS/Go/Rust/WASM using simple 'any' counter algorithm
+
