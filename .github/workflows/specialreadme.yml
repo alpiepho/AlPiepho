@@ -12,7 +12,7 @@ name: Special README Publish
 # use this for actual special readme repo (At minute 1 past every hour)
 on:
   schedule:
-    - cron: "1 */1 * * *""
+    - cron: "1 */1 * * *"
 
 jobs:
   build:
