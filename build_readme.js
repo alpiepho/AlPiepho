@@ -41,7 +41,7 @@ function finishSpecialReadme(jsonData) {
 
   fileData = ""
 
-  fileData += "\n### All Public Repositories Alphabetically\n\n<sup><sub>(using special repo to show all at once.  pinned and chart below)</sub></sup>\n\n(" + jsonData.length + " Total, " + publicCount + " Public, " + forkCount + " Forks)<br>\n"
+  fileData += "\n### All Public Repositories Alphabetically\n\n(" + jsonData.length + " Total, " + publicCount + " Public, " + forkCount + " Forks)<br>\n"
   today = new Date()
   fileData += "<sup><sub>(updated " + today + ")</sub></sup>\n"
   fileData += "\n"
@@ -107,7 +107,7 @@ function finishSpecialReadme(jsonData) {
     fileData += "<sup><sub>" + localDate + "</sub></sup><br>" + "\n"
     fileData += "\n"
   })
-  fs.writeFileSync("README.md", fileData)
+  fs.writeFileSync("README_public_repos.md", fileData)
 }
 
 
