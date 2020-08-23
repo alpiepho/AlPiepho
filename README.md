@@ -16,7 +16,7 @@ like this one.
 - I generate these for my own reference, but if you found my Github account, I hope you will take a look.
 
 [All Public Repos - List](https://github.com/alpiepho/AlPiepho/blob/master/README_public_repos.md)<br>
-[All Public Repos - How it Works](https://github.com/alpiepho/AlPiepho/blob/master/README_public_repos.md)<br>
+[All Public Repos - How it Works](https://github.com/alpiepho/AlPiepho/blob/master/HOWITWORKS_public_repos.md)<br>
 Podcast Subscriptions: <b>TBD</b><br>
 LinkedIn Learning Courses: <b>TBD</b><br>
 
