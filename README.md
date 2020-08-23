@@ -18,9 +18,6 @@ like this one.
 [All Public Repos - List](https://github.com/alpiepho/AlPiepho/blob/master/README_public_repos.md)<br>
 [All Public Repos - How it Works](https://github.com/alpiepho/AlPiepho/blob/master/HOWITWORKS_public_repos.md)<br>
 
-
-<a href="https://github.com/alpiepho/AlPiepho/blob/master/HOWITWORKS_public_repos.md" target="_blank">All Public Repos - How it Works</a>
-
 Podcast Subscriptions: <b>TBD</b><br>
 LinkedIn Learning Courses: <b>TBD</b><br>
 
