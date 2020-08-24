@@ -2,12 +2,12 @@
 ### All Public Repositories Alphabetically
 
 (73 Total, 67 Public, 6 Forks)<br>
-<sup><sub>(updated Mon Aug 24 2020 12:30:44 GMT+0000 (Coordinated Universal Time))</sub></sup>
+<sup><sub>(updated Mon Aug 24 2020 13:01:07 GMT+0000 (Coordinated Universal Time))</sub></sup>
 
 [AlPiepho](https://github.com/alpiepho/AlPiepho/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My Github profile README.md<br>
 ![#F1E05A](https://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2020-08-24T12:01:51Z</sub></sup><br>
+<sup><sub>2020-08-24T12:30:50Z</sub></sup><br>
 
 [ansible_querytrace](https://github.com/alpiepho/ansible_querytrace/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Ansible playbook and script to run query trace (using tcpdump) on inventory of remote servers.<br>
@@ -192,7 +192,7 @@ Portfolio ported to Jekyll<br>
 [pup-learning](https://github.com/alpiepho/pup-learning/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Puppeteer application to gather completed Learning courses and details<br>
 ![##E34C27](https://placehold.it/15/e34c27/000000?text=+) HTML<br>
-<sup><sub>2020-08-24T12:28:57Z</sub></sup><br>
+<sup><sub>2020-08-24T12:47:49Z</sub></sup><br>
 
 [pup-learning-aws](https://github.com/alpiepho/pup-learning-aws/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Gather learning details from AWS using Puppeteer<br>
