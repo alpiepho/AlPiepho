@@ -18,6 +18,8 @@ like this one.
 [All Public Repos - List](https://github.com/alpiepho/AlPiepho/blob/master/README_public_repos.md), 
 [How it Works](https://github.com/alpiepho/AlPiepho/blob/master/HOWITWORKS_public_repos.md)<br>
 <sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs automatically with gh action and node.js from github api)</sub></sup><br>
+[All Public/Private Repos - List](https://github.com/alpiepho/AllReposList)<br>
+<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(WARNING: personal use only, link will not work)</sub></sup><br>
 [Podcast Subscriptions - List](https://alpiepho.github.io/node-overcast-rss/), 
 [Github](https://github.com/alpiepho/node-overcast-rss)<br>
 <sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs manually with node.js and exported playlist, generated html needs some style help)</sub></sup><br>
