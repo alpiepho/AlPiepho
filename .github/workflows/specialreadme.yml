@@ -13,10 +13,10 @@ name: Special README Publish
 # on:
 #   schedule:
 #     - cron: "*/30 * * * *"
-# At 6am every day
+# At 2am every day
 on:
   schedule:
-    - cron: "0 0 6 * * ?"
+    - cron: "0 2 * * *"
 
 jobs:
   build:
