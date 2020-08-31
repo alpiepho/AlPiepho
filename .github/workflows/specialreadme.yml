@@ -5,14 +5,18 @@ name: Special README Publish
 #   push:
 #     branches:
 #       - master
-# use this for testing scheduled (At every 5th minute)
+# At every 5th minute
 # on:
 #   schedule:
 #     - cron: "*/5 * * * *"
-# use this for actual special readme repo (At every 30th minute)
+# At every 30th minute
+# on:
+#   schedule:
+#     - cron: "*/30 * * * *"
+# At 6am every day
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 0 6 * * ?"
 
 jobs:
   build:
