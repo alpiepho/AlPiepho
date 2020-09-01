@@ -13,6 +13,8 @@ name: Special README Publish
 # on:
 #   schedule:
 #     - cron: "*/30 * * * *"
+
+# NOTE: this failed.  disabled GH Actions until I can debug
 # At 2am every day
 on:
   schedule:

@@ -1,4 +1,4 @@
-# Generate REAME_public_repos.md_
+# Generate REAME_public_repos.md
 
 This project is an example of how I auto-generate paort of the "Special" README for my github site.  If you don't know what that is, you need to search for it.  (basically, if you add a github repo with your user name, it becomes special and the README.md is displayed above the standard 'pinned repos' section on your Github overview page...fun).
 
