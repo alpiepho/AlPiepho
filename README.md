@@ -9,9 +9,9 @@ list of Podcasts I follow, list of various online courses I've taken, etc.
 - I also love figuring out automation, like CI/CD tools (Jenkins, Selenium, Puppeteer), and just found Github Actions and the new Github special repos,
 like this one.
 
-- Many lists below are now generated automatically using GH Actions.
+- The lists below are generated automatically using Puppeteer.
 
-- More will be added.
+- Have been experimenting with Github Actions to schedule generating these lists.
 
 - I generate these for my own reference, but if you found my Github account, I hope you will take a look.
 
