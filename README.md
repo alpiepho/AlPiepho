@@ -9,7 +9,7 @@ list of Podcasts I follow, list of various online courses I've taken, etc.
 - I also love figuring out automation, like CI/CD tools (Jenkins, Selenium, Puppeteer), and just found Github Actions and the new Github special repos,
 like this one.
 
-- The lists below are generated automatically using Puppeteer.
+- The lists below are generated using Puppeteer.
 
 - Have been experimenting with Github Actions to schedule generating these lists.
 
@@ -25,4 +25,7 @@ like this one.
 [LinkedIn Learning - List](https://alpiepho.github.io/pup-learning/), 
 &nbsp;&nbsp;[Github](https://github.com/alpiepho/pup-learning)<br>
 <sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs manually with node.js/puppeteer, uses gh actions to auto deploy to gh pages, generated html needs some style help)</sub></sup><br>
+[AWS Training Online - List](https://alpiepho.github.io/pup-learning-aws/), 
+&nbsp;&nbsp;[Github](https://github.com/alpiepho/pup-learning-aws)<br>
+<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs manually with node.js/puppeteer, uses gh actions to auto deploy to gh pages)</sub></sup><br>
 
