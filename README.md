@@ -21,10 +21,10 @@ like this one.
 <sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(WARNING: personal use only, link will not work)</sub></sup><br>
 [Podcast Subscriptions - List](https://alpiepho.github.io/node-overcast-rss/), 
 &nbsp;&nbsp;[Github](https://github.com/alpiepho/node-overcast-rss)<br>
-<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs manually with node.js and exported playlist, generated html needs some style help)</sub></sup><br>
+<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs manually with node.js and exported playlist, generates html)</sub></sup><br>
 [LinkedIn Learning - List](https://alpiepho.github.io/pup-learning/), 
 &nbsp;&nbsp;[Github](https://github.com/alpiepho/pup-learning)<br>
-<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs manually with node.js/puppeteer, uses gh actions to auto deploy to gh pages, generated html needs some style help)</sub></sup><br>
+<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs manually with node.js/puppeteer, uses gh actions to auto deploy to gh pages, generates html)</sub></sup><br>
 [AWS Training Online - List](https://alpiepho.github.io/pup-learning-aws/), 
 &nbsp;&nbsp;[Github](https://github.com/alpiepho/pup-learning-aws)<br>
 <sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs manually with node.js/puppeteer, uses gh actions to auto deploy to gh pages)</sub></sup><br>
