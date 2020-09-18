@@ -28,4 +28,5 @@ like this one.
 [AWS Training Online - List](https://alpiepho.github.io/pup-learning-aws/), 
 &nbsp;&nbsp;[Github](https://github.com/alpiepho/pup-learning-aws)<br>
 <sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs manually with node.js/puppeteer, uses gh actions to auto deploy to gh pages)</sub></sup><br>
-
+[freeCodeCamp Courses - List](https://alpiepho.github.io/pup-yt-fcc/)<br>
+<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs manually with node.js/puppeteer, uses gh actions to auto deploy to gh pages, this is a work in progress parsing YouTube history)</sub></sup><br>
