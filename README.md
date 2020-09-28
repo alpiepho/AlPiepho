@@ -27,6 +27,6 @@ like this one.
 <sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs manually with node.js/puppeteer, uses gh actions to auto deploy to gh pages, generates html)</sub></sup><br>
 [AWS Training Online - List](https://alpiepho.github.io/pup-learning-aws/), 
 &nbsp;&nbsp;[Github](https://github.com/alpiepho/pup-learning-aws)<br>
-<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs manually with node.js/puppeteer, uses gh actions to auto deploy to gh pages)</sub></sup><br>
+<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(updated Tue Sep 15 2020, Totals - Course: 36, Time: 66h 10m, runs manually with node.js/puppeteer, uses gh actions to auto deploy to gh pages)</sub></sup><br>
 [freeCodeCamp Courses - List](https://alpiepho.github.io/pup-yt-fcc/)<br>
-<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs manually with node.js/puppeteer, uses gh actions to auto deploy to gh pages, this is a work in progress parsing YouTube history)</sub></sup><br>
+<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(updated Fri Sep 18 2020, Totals - Course: 124, Time: 195h 2m, runs manually with node.js/puppeteer, uses gh actions to auto deploy to gh pages, this is a work in progress parsing YouTube history)</sub></sup><br>
