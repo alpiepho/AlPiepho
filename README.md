@@ -16,17 +16,17 @@ like this one.
 - I generate these for my own reference, but if you found my Github account, I hope you will take a look.
 
 [All Public Repos - List](https://github.com/alpiepho/AlPiepho/blob/master/README_public_repos.md)<br>
-<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs automatically with gh action and node.js from github api)</sub></sup><br>
+<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(updated Wed Sep 23 2020, 56 Total, 48 Public, 8 Forks, uses node.js to parse from github api)</sub></sup><br>
 [All Public/Private Repos - List](https://github.com/alpiepho/AllReposList)<br>
 <sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(WARNING: personal use only, link will not work)</sub></sup><br>
 [Podcast Subscriptions - List](https://alpiepho.github.io/node-overcast-rss/), 
 &nbsp;&nbsp;[Github](https://github.com/alpiepho/node-overcast-rss)<br>
-<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs manually with node.js and exported playlist, generates html)</sub></sup><br>
+<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(updated Tue Sep 15 2020, Total Subscriptions: 86, uses node.js and exported playlist, generates html)</sub></sup><br>
 [LinkedIn Learning - List](https://alpiepho.github.io/pup-learning/), 
 &nbsp;&nbsp;[Github](https://github.com/alpiepho/pup-learning)<br>
-<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(runs manually with node.js/puppeteer, uses gh actions to auto deploy to gh pages, generates html)</sub></sup><br>
+<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(updated Mon Sep 14 2020, Totals - Course: 162, Time: 291h 23m, uses node.js/puppeteer, uses gh actions to deploy to gh pages, generates html)</sub></sup><br>
 [AWS Training Online - List](https://alpiepho.github.io/pup-learning-aws/), 
 &nbsp;&nbsp;[Github](https://github.com/alpiepho/pup-learning-aws)<br>
-<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(updated Tue Sep 15 2020, Totals - Course: 36, Time: 66h 10m, runs manually with node.js/puppeteer, uses gh actions to auto deploy to gh pages)</sub></sup><br>
+<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(updated Tue Sep 15 2020, Totals - Course: 36, Time: 66h 10m, uses node.js/puppeteer, uses gh actions to deploy to gh pages)</sub></sup><br>
 [freeCodeCamp Courses - List](https://alpiepho.github.io/pup-yt-fcc/)<br>
-<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(updated Fri Sep 18 2020, Totals - Course: 124, Time: 195h 2m, runs manually with node.js/puppeteer, uses gh actions to auto deploy to gh pages, this is a work in progress parsing YouTube history)</sub></sup><br>
+<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(updated Fri Sep 18 2020, Totals - Course: 124, Time: 195h 2m, uses node.js/puppeteer to parse YouTube history, uses gh actions to deploy to gh pages)</sub></sup><br>
