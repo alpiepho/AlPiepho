@@ -16,7 +16,7 @@ like this one.
 - I generate these for my own reference, but if you found my Github account, I hope you will take a look.
 
 [All Public Repos - List](https://github.com/alpiepho/AlPiepho/blob/master/README_public_repos.md)<br>
-<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(updated Wed Sep 23 2020, 56 Total, 48 Public, 8 Forks, uses node.js to parse from github api)</sub></sup><br>
+<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(updated Mon Apr 19 2021, 51 Total, 39 Public, 12 Forks, uses node.js to parse from github api)</sub></sup><br>
 [All Public/Private Repos - List](https://github.com/alpiepho/AllReposList)<br>
 <sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(WARNING: personal use only, link will not work)</sub></sup><br>
 [Podcast Subscriptions - List](https://alpiepho.github.io/node-overcast-rss/), 
