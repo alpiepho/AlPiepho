@@ -1,13 +1,13 @@
 
 ### All Public Repositories Alphabetically
 
-(51 Total, 39 Public, 12 Forks)<br>
-<sup><sub>(updated Mon Apr 19 2021 06:42:59 GMT-0600 (Mountain Daylight Time))</sub></sup>
+(57 Total, 45 Public, 12 Forks)<br>
+<sup><sub>(updated Fri Aug 27 2021 15:08:53 GMT-0600 (Mountain Daylight Time))</sub></sup>
 
 [AlPiepho](https://github.com/alpiepho/AlPiepho/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My Github profile README.md<br>
 ![#000000](http://placehold.it/15/000000/000000?text=+) unknown language<br>
-<sup><sub>2021-04-19T12:37:37Z</sub></sup><br>
+<sup><sub>2021-08-27T21:02:35Z</sub></sup><br>
 
 [ansible_querytrace](https://github.com/alpiepho/ansible_querytrace/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Ansible playbook and script to run query trace (using tcpdump) on inventory of remote servers.<br>
@@ -44,6 +44,11 @@ A collection of code challenge and interview questions that I have encountered (
 ![##545454](http://placehold.it/15/545454/000000?text=+) C<br>
 <sup><sub>2020-03-21T16:45:44Z</sub></sup><br>
 
+[coursera_go_classes](https://github.com/alpiepho/coursera_go_classes/blob/master/README.md) <sup><i>(public)</i></sup> <br>
+(see link)<br>
+![##00ADD8](http://placehold.it/15/00add8/000000?text=+) Go<br>
+<sup><sub>2021-07-04T12:33:46Z</sub></sup><br>
+
 [css-grid-resume](https://github.com/alpiepho/css-grid-resume/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Responsive CSS Resume Template<br>
 ![##E34C27](http://placehold.it/15/e34c27/000000?text=+) HTML<br>
@@ -52,7 +57,12 @@ Responsive CSS Resume Template<br>
 [css-grid-resume-mine](https://github.com/alpiepho/css-grid-resume-mine/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My own resume derived from the css-grid-resume.<br>
 ![##E34C27](http://placehold.it/15/e34c27/000000?text=+) HTML<br>
-<sup><sub>2021-01-30T17:22:43Z</sub></sup><br>
+<sup><sub>2021-05-26T13:33:48Z</sub></sup><br>
+
+[css-transform-li](https://github.com/alpiepho/css-transform-li/blob/master/README.md) <sup><i>(public)</i></sup> <br>
+Exercise files from Linkedin Course on CSS Transforms, as reference<br>
+![##58407E](http://placehold.it/15/58407e/000000?text=+) CSS<br>
+<sup><sub>2021-05-25T12:42:27Z</sub></sup><br>
 
 [css-whack-a-mole](https://github.com/alpiepho/css-whack-a-mole/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Code behind my codepen fork and modifications<br>
@@ -79,11 +89,6 @@ From FreeCodeCamp Front End Web Developer course and CodePen project<br>
 ![#F1E05A](http://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2017-07-25T18:17:31Z</sub></sup><br>
 
-[gatsby](https://github.com/gatsbyjs/gatsby/blob/master/README.md) <sup><i>(public)</i></sup> <br>
-Build blazing fast, modern apps and websites with React<br>
-![#F1E05A](http://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2021-04-19T12:25:04Z</sub></sup><br>
-
 [gatsby-gh-pages-action](https://github.com/alpiepho/gatsby-gh-pages-action/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 GitHub Action to build and deploy your Gatsby site to GitHub Pages ❤️🎩<br>
 ![#F1E05A](http://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
@@ -99,6 +104,11 @@ A review of GitPrime 20 Patterns e-book as a PWA<br>
 ![#F1E05A](http://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2021-01-25T08:38:40Z</sub></sup><br>
 
+[hexcalc_tn](https://github.com/alpiepho/hexcalc_tn/blob/master/README.md) <sup><i>(public)</i></sup> <br>
+A Flutter version of a hex calculator application<br>
+![##89C051](http://placehold.it/15/00b4ab/000000?text=+) Dart<br>
+<sup><sub>2021-08-27T12:59:29Z</sub></sup><br>
+
 [junit-plugin](https://github.com/alpiepho/junit-plugin/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 Allows JUnit-format test results to be published<br>
 ![##B07218](http://placehold.it/15/b07218/000000?text=+) Java<br>
@@ -108,6 +118,11 @@ Allows JUnit-format test results to be published<br>
 Jupyter Notebook for parsing log file and showing given log messages as a scatter plot<br>
 ![##DA5B0A](http://placehold.it/15/da5b0a/000000?text=+) Jupyter Notebook<br>
 <sup><sub>2020-11-12T18:24:48Z</sub></sup><br>
+
+[macropad](https://github.com/alpiepho/macropad/blob/master/README.md) <sup><i>(public)</i></sup> <br>
+Collection of examples for ADABox019 MacroPad RS2040<br>
+![##3571A5](http://placehold.it/15/3571a5/000000?text=+) Python<br>
+<sup><sub>2021-08-16T08:42:11Z</sub></sup><br>
 
 [minimal-safe-bash-template](https://github.com/alpiepho/minimal-safe-bash-template/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 My Minimal Safe Bash Script Template<br>
@@ -137,7 +152,7 @@ A simple Node.js app to process the subscription export file from Overcast podca
 [node-repodata](https://github.com/alpiepho/node-repodata/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Simple Node.js app to parse the public GitHub API results into a blob entry and html page<br>
 ![#F1E05A](http://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
-<sup><sub>2021-04-19T12:38:06Z</sub></sup><br>
+<sup><sub>2021-04-19T12:45:21Z</sub></sup><br>
 
 [pi-gen](https://github.com/alpiepho/pi-gen/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 Tool used to create the raspberrypi.org Raspbian images<br>
@@ -157,7 +172,7 @@ Portfolio ported to Jekyll<br>
 [pup-learning](https://github.com/alpiepho/pup-learning/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Puppeteer application to gather completed Learning courses and details<br>
 ![##E34C27](http://placehold.it/15/e34c27/000000?text=+) HTML<br>
-<sup><sub>2021-03-09T13:17:39Z</sub></sup><br>
+<sup><sub>2021-08-27T20:53:08Z</sub></sup><br>
 
 [pup-learning-aws](https://github.com/alpiepho/pup-learning-aws/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Gather learning details from AWS using Puppeteer<br>
@@ -207,7 +222,7 @@ Simple RPN (reverse polish notation) Hex calculator as a Visual Studio Code exte
 [scoreboard_tn](https://github.com/alpiepho/scoreboard_tn/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 A Flutter version of a scoreboard PWA applications<br>
 ![##89C051](http://placehold.it/15/00b4ab/000000?text=+) Dart<br>
-<sup><sub>2021-04-19T10:10:34Z</sub></sup><br>
+<sup><sub>2021-06-27T11:25:17Z</sub></sup><br>
 
 [simple-autoscroll](https://github.com/alpiepho/simple-autoscroll/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 An extension that adds the ability to automatically scroll through long pages. <br>
@@ -229,6 +244,16 @@ D3 forced directed diagram based on State of Javascript 2018 and State of CSS 20
 ![#F1E05A](http://placehold.it/15/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2019-07-19T23:04:00Z</sub></sup><br>
 
+[tally](https://github.com/alpiepho/tally/blob/master/README.md) <sup><i>(public)</i></sup> <br>
+A simple tally application<br>
+![##89C051](http://placehold.it/15/00b4ab/000000?text=+) Dart<br>
+<sup><sub>2021-05-18T12:46:29Z</sub></sup><br>
+
+[timers_tn](https://github.com/alpiepho/timers_tn/blob/master/README.md) <sup><i>(public)</i></sup> <br>
+Simple Flutter application that implements multiple up/down timers<br>
+![##89C051](http://placehold.it/15/00b4ab/000000?text=+) Dart<br>
+<sup><sub>2021-08-27T14:01:56Z</sub></sup><br>
+
 [ubuntu-18.04-server-setup](https://github.com/alpiepho/ubuntu-18.04-server-setup/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Notes and tools to set up Ubuntu 18.04 development system with KVM etc.<br>
 ![#000000](http://placehold.it/15/000000/000000?text=+) unknown language<br>
@@ -237,7 +262,7 @@ Notes and tools to set up Ubuntu 18.04 development system with KVM etc.<br>
 [unit_calculator](https://github.com/alpiepho/unit_calculator/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 A Flutter PWA that shown Unit conversions like Inches vs Centimeters<br>
 ![##89C051](http://placehold.it/15/00b4ab/000000?text=+) Dart<br>
-<sup><sub>2021-04-07T14:07:54Z</sub></sup><br>
+<sup><sub>2021-05-10T22:34:49Z</sub></sup><br>
 
 [vscode](https://github.com/alpiepho/vscode/blob/master/README.md) <sup><i>(fork)</i></sup> <br>
 Visual Studio Code<br>
@@ -258,4 +283,9 @@ Some of my hints for configuring VS Code, like keyboard shortcuts, great plugins
 Device Simulator Express, a Microsoft Garage project<br>
 ![#000000](http://placehold.it/15/000000/000000?text=+) unknown language<br>
 <sup><sub>2020-09-08T12:27:15Z</sub></sup><br>
+
+[ytlinks_tn](https://github.com/alpiepho/ytlinks_tn/blob/master/README.md) <sup><i>(public)</i></sup> <br>
+A Flutter PWA that converts links of time stamps and YouTube Link into page of time specific YouTube Links.<br>
+![##89C051](http://placehold.it/15/00b4ab/000000?text=+) Dart<br>
+<sup><sub>2021-04-26T08:48:24Z</sub></sup><br>
 
