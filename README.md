@@ -24,7 +24,7 @@ like this one.
 <sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(updated Tue Sep 15 2020, Total Subscriptions: 86, uses node.js and exported playlist, generates html)</sub></sup><br>
 [LinkedIn Learning - List](https://alpiepho.github.io/pup-learning/), 
 &nbsp;&nbsp;[Github](https://github.com/alpiepho/pup-learning)<br>
-<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(updated Mon Sep 14 2020, Totals - Course: 162, Time: 291h 23m, uses node.js/puppeteer, uses gh actions to deploy to gh pages, generates html)</sub></sup><br>
+<sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(updated Fri Aug 27 2021, Totals - Course: 286, Time: 470h 45m, uses node.js/puppeteer, uses gh actions to deploy to gh pages, generates html)</sub></sup><br>
 [AWS Training Online - List](https://alpiepho.github.io/pup-learning-aws/), 
 &nbsp;&nbsp;[Github](https://github.com/alpiepho/pup-learning-aws)<br>
 <sup><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(updated Tue Sep 15 2020, Totals - Course: 36, Time: 66h 10m, uses node.js/puppeteer, uses gh actions to deploy to gh pages)</sub></sup><br>
