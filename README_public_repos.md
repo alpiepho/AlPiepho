@@ -6,7 +6,7 @@
 
 ![#000000](https://via.placeholder.com/728x90.png?text=Visit+WhoIsHostingThis.com+Buyers+Guide)
 ![#000000](https://via.placeholder.com/728x90.png?text=+)
-![#000000](https://via.placeholder.com/728x90.png/f1e05a?text=+)
+![#000000](https://via.placeholder.com/728x90.png/f1e05a/?text=_)
 
 
 [AlPiepho](https://github.com/alpiepho/AlPiepho/blob/master/README.md) <sup><i>(public)</i></sup> <br>
