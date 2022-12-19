@@ -10,12 +10,12 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{#F1E05A}#F1E05A}$
 
 [AlPiepho](https://github.com/alpiepho/AlPiepho/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My Github profile README.md<br>
-$${\color{black}unknown language$$<br>
+$${\color{black}unknown language}$$<br>
 <sup><sub>2021-08-27T21:14:57Z</sub></sup><br>
 
 [ansible_querytrace](https://github.com/alpiepho/ansible_querytrace/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Ansible playbook and script to run query trace (using tcpdump) on inventory of remote servers.<br>
-$${\color{green}Shell$$<br>
+$${\color{green}Shell}$$<br>
 <sup><sub>2020-08-18T12:36:46Z</sub></sup><br>
 
 [ansible_snmpv3](https://github.com/alpiepho/ansible_snmpv3/blob/master/README.md) <sup><i>(public)</i></sup> <br>
