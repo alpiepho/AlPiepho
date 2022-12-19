@@ -4,6 +4,7 @@
 (57 Total, 45 Public, 12 Forks)<br>
 <sup><sub>(updated Fri Aug 27 2021 15:15:44 GMT-0600 (Mountain Daylight Time))</sub></sup>
 
+Experiments to fix color blocks from placeholder.it:
 ![#000000](https://via.placeholder.com/728x90.png?text=Visit+WhoIsHostingThis.com+Buyers+Guide)
 ![#000000](https://via.placeholder.com/728x90.png?text=+)
 ![#000000](https://via.placeholder.com/728x90.png/f1e05a/?text=_)
@@ -11,12 +12,12 @@
 
 [AlPiepho](https://github.com/alpiepho/AlPiepho/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My Github profile README.md<br>
-unknown language<br>
+![#000000](http://placehold.it/15/000000/000000?text=+) unknown language<br>
 <sup><sub>2021-08-27T21:14:57Z</sub></sup><br>
 
 [ansible_querytrace](https://github.com/alpiepho/ansible_querytrace/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Ansible playbook and script to run query trace (using tcpdump) on inventory of remote servers.<br>
-Shell<br>
+![#000000](http://placehold.it/15/89e051/000000?text=+) Shell<br>
 <sup><sub>2020-08-18T12:36:46Z</sub></sup><br>
 
 [ansible_snmpv3](https://github.com/alpiepho/ansible_snmpv3/blob/master/README.md) <sup><i>(public)</i></sup> <br>
@@ -26,7 +27,7 @@ Simple Ansible script to add/remove SNMPv3 user<br>
 
 [any-counter](https://github.com/alpiepho/any-counter/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Simple PWA that runs a counter given custom number and range of digits. Includes Web Assembly.<br>
-![#F1E05A]("https://via.placeholder.com/15x125.png/f1e05a?text=+") JavaScript<br>
+![#F1E05A](http://placehold.it/15/f1e05a/000000?text=+") JavaScript<br>
 <sup><sub>2020-06-08T01:32:41Z</sub></sup><br>
 
 [arduino_scoreboard](https://github.com/alpiepho/arduino_scoreboard/blob/master/README.md) <sup><i>(public)</i></sup> <br>
