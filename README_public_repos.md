@@ -4,18 +4,14 @@
 (57 Total, 45 Public, 12 Forks)<br>
 <sup><sub>(updated Fri Aug 27 2021 15:15:44 GMT-0600 (Mountain Daylight Time))</sub></sup>
 
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-
-$${\color{red}Welcome \space \color{lightblue}To \space \color{#F1E05A}#F1E05A}$$
-
 [AlPiepho](https://github.com/alpiepho/AlPiepho/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 My Github profile README.md<br>
-$${\color{black}unknown language}$$<br>
+unknown language<br>
 <sup><sub>2021-08-27T21:14:57Z</sub></sup><br>
 
 [ansible_querytrace](https://github.com/alpiepho/ansible_querytrace/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Ansible playbook and script to run query trace (using tcpdump) on inventory of remote servers.<br>
-$${\color{green}Shell}$$<br>
+Shell<br>
 <sup><sub>2020-08-18T12:36:46Z</sub></sup><br>
 
 [ansible_snmpv3](https://github.com/alpiepho/ansible_snmpv3/blob/master/README.md) <sup><i>(public)</i></sup> <br>
