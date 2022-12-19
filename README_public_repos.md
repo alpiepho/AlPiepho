@@ -21,7 +21,7 @@ Simple Ansible script to add/remove SNMPv3 user<br>
 
 [any-counter](https://github.com/alpiepho/any-counter/blob/master/README.md) <sup><i>(public)</i></sup> <br>
 Simple PWA that runs a counter given custom number and range of digits. Includes Web Assembly.<br>
-![#F1E05A](https://placehold.com/15.png/f1e05a/000000?text=+) JavaScript<br>
+![#F1E05A](https://via.placehold.com/15.png/f1e05a/000000?text=+) JavaScript<br>
 <sup><sub>2020-06-08T01:32:41Z</sub></sup><br>
 
 [arduino_scoreboard](https://github.com/alpiepho/arduino_scoreboard/blob/master/README.md) <sup><i>(public)</i></sup> <br>
